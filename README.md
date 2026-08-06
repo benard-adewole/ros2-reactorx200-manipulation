@@ -6,7 +6,7 @@
 ---
 
 ## Project Overview
-**Sequential Operational Sequence:** Demonstration of a custom 5-Degree-of-Freedom (5-DoF) robotic arm executing an autonomous operational pipeline to pick, load, and dynamically launch a ball into a target basket, utilizing vision-based target acquisition, inverse kinematics, and ROS 2/Python control architectures.
+Demonstration of a custom 5-Degree-of-Freedom (5-DoF) robotic arm executing an autonomous operational pipeline to pick, load, and dynamically launch a ball into a target basket, utilizing vision-based target acquisition, inverse kinematics, and ROS 2/Python control architectures.
 
 ---
 
